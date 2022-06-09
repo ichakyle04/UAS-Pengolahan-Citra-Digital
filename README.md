@@ -1,2 +1,2 @@
 # Project MATLAB
-Segmentasi citra kanker payudara menggunakan metode sobel
+Segmentasi Citra Menggunakan Desain GUI Pada Aplikasi Matlab
